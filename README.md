@@ -28,7 +28,8 @@ Disposición para aprender.
 # Habilidades técnicas o específicas
 
 Manejo básico de Word , excel y PowerPoint,presentaciones digitales.
-Proyectos destacados
+
+# Proyectos destacados
 
 # Bomba Sweet
 
